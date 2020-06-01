@@ -567,6 +567,40 @@ margin: 20px 0;
 font-size: 12px;
 width: 90%;
 }
+/* estilos servicios*/
+.titulo-gn{
+  font-size: 28px;
+}
+.titulo-gn span{
+  font-size: 18px;
+}
+.img-sect {
+  margin:5px auto;
+}
+.espacio2{
+  display: block;
+  padding: 20px 0;
+}
+.second2{
+margin: 15px 0;
+font-size: 14px;
+line-height: 1.3;
+text-align: justify;
+width: 90%;
+color: #fff;
+}
+.titulo-sect1{
+  font-weight: 600;
+  font-size: 35px;
+  margin:15px 0;
+  color: #fff;
+}
+.titulo-gn span{
+  font-weight: 600;
+  font-size: 38px;
+  display: block;
+}
+
 }
 /* =================================*/
 
@@ -600,13 +634,31 @@ margin: 20px 0;
 font-size: 12px;
 width: 90%;
 }
-
+.box-tiulo {
+   font-family: 'Hind Madurai', sans-serif;
+   font-size: 18px;
+   text-align: center;
+   color: #fff;
+   font-weight: 600;
+}
+.espacio2{
+  display: block;
+  padding: 20px 0;
+}
+.box-servicios-sect{
+  background: #131313;
+  height: auto;
+}
 }
 /* =================================*/
 @media (min-width: 992px) and (max-width: 1199px){
 .box-consultoria {
   margin:80px 0; 
   padding: 0 20px;
+}
+.box-servicios-sect{
+  background: #131313;
+  height: auto;
 }
   /* ipad */
 
