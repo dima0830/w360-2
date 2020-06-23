@@ -7,7 +7,7 @@
         <span class="titulo">Nuestras</span><br>
     Estrategias digitales
   </h1>
-  <p class="second2" >Partiendo de una necesidad creamos una solución, la implementamos y la controlamos, aumento las ventas, la salud de marca o cualquier otra necesidad en el ámbito digital.</p>
+  <p class="second2" >Partiendo de una necesidad creamos una solución, la implementamos y la controlamos. Aumentamos las ventas, mejoramos la salud de La marca, digitalizamos procesos, Workflows, o cualquier otra necesidad.</p>
     </div>
     <div class="col-md">
       <img src="assets/img/serv1-1.png" class="img-fluid img-sect">

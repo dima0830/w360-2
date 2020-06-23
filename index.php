@@ -1,5 +1,5 @@
 <?php include("config.php"); ?>
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
   <!-- Required meta tags -->

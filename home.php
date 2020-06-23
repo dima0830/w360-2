@@ -23,7 +23,7 @@
     <div class="bn bn3">
       <div class="content">
         <div class="container">
-          <div class="text-center caption">
+          <div class="text-right caption">
             <img src="assets/img/text3.png" class="img-fluid">
           </div>
         </div>
@@ -212,10 +212,11 @@
 </section>
 <section class="clientes">
   <a name="nuestros-clientes"></a> 
-  <h1 class="titulo-gn">
+  <!--<h1 class="titulo-gn">
     <span>Aquí encontramos</span>
     Nuestros clientes
-  </h1>
+  </h1>-->
+  <br>
   <div class="sliderlogo2">
     <div class="boxi">
    <a type="button" data-toggle="modal" data-target="#bbva">
@@ -317,7 +318,7 @@
               <div class="row">
                 <div class="col-sm">
                   <div class="box-modal">
-                    <h1>concesionario GM</h1>
+                    <h1>GM</h1>
                     <span>_________</span>
                     <p>
                       Se requería fidelizar a los vendedores de los diferentes concesionarios que ofrecían los vehículos de GM. Se creo una plataforma de capacitación y certificación de técnicas de ventas del sector con escalonamiento y premios que logro cautivar a la gran mayoría del equipo comercial de estos concesionarios.
@@ -446,7 +447,7 @@
                     <h1>Pepsico</h1>
                     <span>_________</span>
                     <p>
-                     Pepsico Convertiria tres de sus sedes corporativas en diferentes ubicaciones en una sola. Requeria de una estrategia para permitir el traslado sin ningún traumatismo.
+                     Pepsico Convertiría tres de sus sedes corporativas en diferentes ubicaciones en una sola. Requeria de una estrategia para permitir el traslado sin ningún traumatismo.
                     </p>
                   </div>
                 </div>
@@ -471,7 +472,7 @@
                     <h1>Tigo</h1>
                     <span>_________</span>
                     <p>
-                    Con Cerca de 12 mil subdistribuidores en el país en el absoluto anonimato requeria que le ayudaramos a identificarlos . Creamos una estrategia y una plataforma de ventas escalonadas que nos permitio lograr con el objetivo.
+                   Con Cerca de 12 mil subdistribuidores en el país en el absoluto anonimato se requeria que le ayudaramos a identificarlos. Creamos una estrategia y una plataforma de ventas escalonadas que nos permitió lograr con el objetivo.
                     </p>
                   </div>
                 </div>

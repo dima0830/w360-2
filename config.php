@@ -1,6 +1,6 @@
 <?php 
 
- $base_url = "w360-ultima/";  
+ $base_url = "w360/";  
  $base_url = str_replace($base_url,"",$_SERVER['REQUEST_URI']); 
  $a = explode("?",$base_url); 
  $current_uri = explode("/",$a[0]); 

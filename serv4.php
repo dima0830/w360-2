@@ -7,7 +7,7 @@
         <span class="titulo">Nuestros</span><br>
    DISEÑOS, DESARROLLOS DE SOLUCIONES WEB
   </h1>
-  <p class="second2">Construimos juegos interactivos que permiten a las marcas aumentar sus ventas, la participación en el mercado y el conocimiento de sus productos.</p>
+  <p class="second2">Construimos herramientas web que permiten a las marcas o compañías alcanzar resultados inmaginables</p>
     </div>
     <div class="col-sm">
       <img src="assets/img/serv4-4.png" class="img-fluid img-sect">

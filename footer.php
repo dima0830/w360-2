@@ -23,7 +23,7 @@
           <div class="col-sm redes">
                <span>
                 <i class="fas fa-phone"></i>
-              </span> + 3 651 231
+              </span> +51 365 1231
           </div>
         <div class="col-sm redes">
                <span>

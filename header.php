@@ -1,6 +1,6 @@
 <header>
 	<div class="menu_bar">
-		<a href="#" class="bt-menu"><i class="fas fa-bars"></i>Menu</a>
+		<a href="#" class="bt-menu logo"><img src="assets/img/logo.png"></a>
 	</div>
 	<nav>
 		<div class="container">
